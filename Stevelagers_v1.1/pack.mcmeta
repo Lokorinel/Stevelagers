@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "supported_formats":[0,99],
+        "description": "Stevelagers! An adaptation of Cursed Villagers Mod"
+    }
+}
